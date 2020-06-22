@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BSF", "BSF.dtproj", "{AB8D1D75-1630-4795-8C82-F6DF7237C8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8D1D75-1630-4795-8C82-F6DF7237C8DE}.Development|Default.ActiveCfg = Development
+		{AB8D1D75-1630-4795-8C82-F6DF7237C8DE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB621F8B-D653-41E3-A111-3AEC93098FE9}
+	EndGlobalSection
+EndGlobal
