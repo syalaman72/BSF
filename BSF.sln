@@ -5,6 +5,29 @@ VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "BSF", "BSF.dtproj", "{AB8D1D75-1630-4795-8C82-F6DF7237C8DE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Scripts", "SQL Scripts", "{5F897CD8-6C64-4EC7-A048-305AB77EBFB3}"
+	ProjectSection(SolutionItems) = preProject
+		E:\ETL\Administrators_Script.sql = E:\ETL\Administrators_Script.sql
+		E:\ETL\Affinity_Script.sql = E:\ETL\Affinity_Script.sql
+		E:\ETL\AreaPersonnel_Script.sql = E:\ETL\AreaPersonnel_Script.sql
+		E:\ETL\BibleKnowledge_Script.sql = E:\ETL\BibleKnowledge_Script.sql
+		E:\ETL\ChurchDenomination_Script.sql = E:\ETL\ChurchDenomination_Script.sql
+		E:\ETL\ClassAdministrators-AOT_Script.sql = E:\ETL\ClassAdministrators-AOT_Script.sql
+		E:\ETL\Country_Script.sql = E:\ETL\Country_Script.sql
+		E:\ETL\GroupDiscussionMeeting_Script.sql = E:\ETL\GroupDiscussionMeeting_Script.sql
+		E:\ETL\LeadersMeeting_Script.sql = E:\ETL\LeadersMeeting_Script.sql
+		E:\ETL\MaritalStatus_Script.sql = E:\ETL\MaritalStatus_Script.sql
+		E:\ETL\OnlineArea_Script.sql = E:\ETL\OnlineArea_Script.sql
+		E:\ETL\OnlineClass_Script.sql = E:\ETL\OnlineClass_Script.sql
+		E:\ETL\OnlineGroup_Script.sql = E:\ETL\OnlineGroup_Script.sql
+		E:\ETL\Q1.sql = E:\ETL\Q1.sql
+		E:\ETL\Q2.sql = E:\ETL\Q2.sql
+		E:\ETL\Q3.sql = E:\ETL\Q3.sql
+		E:\ETL\RegionalDirector_Script.sql = E:\ETL\RegionalDirector_Script.sql
+		E:\ETL\TeachingLeader_Script.sql = E:\ETL\TeachingLeader_Script.sql
+		E:\ETL\Translation.sql = E:\ETL\Translation.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Development|Default = Development|Default
